@@ -1,6 +1,6 @@
 # smart_tech_wvs
 
-- IEEE Machine Learning Hackathon at Nazarbayev University
+- IEEE Machine Learning 24-hour Hackathon at Nazarbayev University
 - Organizers: KPMG, Sergek Group, Desht Lab
 - Case: Desht Lab
 - Team: Smart Tech
